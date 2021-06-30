@@ -1,6 +1,10 @@
 # Animal-adoption-EDA-ML---Capstone-project
+
 - [Goal](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#goal)
 - [Sub-goal]()
+
+## Problem statement
+- need to maximise adoption rates to ensure adoption shelters are not completely dependent on government funding as well as to improve the quality of life of animals and pet owners
 ## Goal
 - to assist shelters in identifying features to take note of when trying to improve adoption rates.
 
