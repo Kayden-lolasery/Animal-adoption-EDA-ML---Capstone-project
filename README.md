@@ -7,6 +7,9 @@
 ![adoption-fee-banner](https://user-images.githubusercontent.com/78312050/123228543-17c25b00-d508-11eb-85fd-d3ca3396b6a8.jpg)
 
 ## Sub-goal
-Utilizing various Machine learning algorithmns and libraries to get the best model [0_YEwFetXQGPB8aDFV](https://user-images.githubusercontent.com/78312050/123228709-404a5500-d508-11eb-88c7-f09e3fc6e6dd.png)
+Utilizing various Machine learning algorithmns and libraries to get the best model 
+![Decision-Trees-Root-Node](https://user-images.githubusercontent.com/78312050/123955411-27481500-d9dc-11eb-91a8-321f66414e67.png)
 ![images (1)](https://user-images.githubusercontent.com/78312050/123228726-44767280-d508-11eb-91d5-7b23c811a19c.png)
+![1523957272561](https://user-images.githubusercontent.com/78312050/123955599-637b7580-d9dc-11eb-9368-b50355d5b7fb.jpg)
+
 
