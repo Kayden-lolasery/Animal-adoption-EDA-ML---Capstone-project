@@ -21,6 +21,7 @@
 - Data needs to be in numbers for the Machine to read, these numbers shoud also make sense in the real world. 
 ### Example of features with data set errors
 #### animalage
+![sam](https://user-images.githubusercontent.com/78312050/124398735-dd4b9000-dd49-11eb-9381-c6cf2dee0af2.PNG)
 - Dataset column is riddled with:
    - **strings** where days, weeks & months need to be converted into years
       - *Regular expression* usage to achieve this
