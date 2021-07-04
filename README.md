@@ -16,8 +16,11 @@
 ## Data pre-processing
 ### Example of features with data set errors
 #### animalage
-- Dataset column is riddled with **outlier errors** & **strings** which need to be turned into integers.
--- Here i chose to replace the outlier age (100 year old cats/ dogs) with the googled average maximum age of a cat/dog
+- Dataset column is riddled with:
+   - **strings** where days, weeks & months need to be converted into years
+      - Regular expression usage to achieve this
+   - **outlier errors** which need to be turned into integers.
+      - Here i chose to replace the outlier age (100 year old cats/ dogs) with the googled average maximum age of a cat/dog
 ![regular expression](https://user-images.githubusercontent.com/78312050/124397544-f7ce3b00-dd42-11eb-8568-a1306e6e95d2.PNG)
 
 ## Sub-goal
