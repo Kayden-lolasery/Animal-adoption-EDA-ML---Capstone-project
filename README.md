@@ -6,6 +6,7 @@
    - Data cleaning
       - [Example of features with data set errors](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#example-of-features-with-data-set-errors)
          - [animalage](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#animalage)
+            - [Before and after]()
 - [Sub-goal](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#sub-goal)
 
 ## Problem statement
@@ -25,7 +26,8 @@
    - **outlier errors** which need to be turned into integers.
       - Here i chose to replace the outlier age (100 year old cats/ dogs) with the googled average maximum age of a cat/dog
 ![regular expression](https://user-images.githubusercontent.com/78312050/124397544-f7ce3b00-dd42-11eb-8568-a1306e6e95d2.PNG)
-
+### Before and after data-preprocessing
+![age product](https://user-images.githubusercontent.com/78312050/124398208-1afae980-dd47-11eb-8f74-2de304e5754d.PNG)
 ## Sub-goal
 Utilizing various Machine learning algorithmns and libraries to get the best model 
 ![Decision-Trees-Root-Node](https://user-images.githubusercontent.com/78312050/123955411-27481500-d9dc-11eb-91a8-321f66414e67.png)
