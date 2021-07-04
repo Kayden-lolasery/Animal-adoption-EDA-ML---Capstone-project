@@ -6,7 +6,7 @@
    - Data cleaning
       - [Example of features with data set errors](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#example-of-features-with-data-set-errors)
          - [animalage](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#animalage)
-            - [Before and after]()
+            - [Before and after](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#before-and-after-data-preprocessing)
 - [Sub-goal](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#sub-goal)
 
 ## Problem statement
