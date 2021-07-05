@@ -1,4 +1,5 @@
 # Animal-adoption-EDA-ML---Capstone-project
+![adoption-fee-banner](https://user-images.githubusercontent.com/78312050/123228543-17c25b00-d508-11eb-85fd-d3ca3396b6a8.jpg)
 ## *Table of contents*
 - [Problem Statement](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#problem-statement)
 - [Goal](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#goal)
@@ -18,7 +19,7 @@
 
 ## Goal
 - to assist shelters in identifying features to take note of when trying to improve adoption rates.
-![adoption-fee-banner](https://user-images.githubusercontent.com/78312050/123228543-17c25b00-d508-11eb-85fd-d3ca3396b6a8.jpg)
+
 ## EDA (exploratory data analysis) interesting points:
 - Black cats and dogs have the highest abandon and adoption rates
 - 
