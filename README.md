@@ -17,7 +17,7 @@
             - [Before & after data-preprocessing](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#before-and-after-data-preprocessing)
 - [Label manipulation before training models]()
 - [ML models used](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#ml-models-used)
-- [ML EDA]()
+- [ML EDA](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#ml-eda)
 
 ## Problem statement
 - need to maximise adoption rates to ensure adoption shelters are not completely dependent on government funding as well as to improve the quality of life of animals and pet owners.
