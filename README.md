@@ -9,6 +9,7 @@
    - Data engineering
       - [Feature Engineering](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#feature-engineering)
          - [Total time spent in shelter](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#total-time-spent-in-shelter)
+         - [Adoption rate](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#adoption-rate)
       - [Example of features with data set errors](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#example-of-features-with-data-set-errors)
          - [animalage](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#animalage)
             - [Before & after data-preprocessing](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#before-and-after-data-preprocessing)
@@ -25,7 +26,6 @@
 ## EDA (exploratory data analysis) interesting points:
 - Black cats and dogs have the highest abandon and adoption rates
 - Adoption rate is not time sensitive
-- ![not time sensitive](https://user-images.githubusercontent.com/78312050/124508710-0714bd80-de03-11eb-88fc-62900b26c1c4.PNG)
 - ![not time sensitive2](https://user-images.githubusercontent.com/78312050/124510369-3a0c8080-de06-11eb-855f-a05ba80dcbf3.PNG)
 # Data pre-processing
 ## Data cleaning
@@ -44,6 +44,7 @@
    - ![time spent in shelter](https://user-images.githubusercontent.com/78312050/124504257-acc32f00-ddf9-11eb-8600-d3a9a83e31f4.PNG)
 #### Adoption rate
    - Obtained via dividing current adopted with total number of animals. Caveat is that first few entries will be very skewed and jumpy on the graph
+      - ![not time sensitive](https://user-images.githubusercontent.com/78312050/124508710-0714bd80-de03-11eb-88fc-62900b26c1c4.PNG)
 
 
 
