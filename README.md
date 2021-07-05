@@ -6,7 +6,7 @@
 - [Data pre-processing](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#data-pre-processing)
    - Data engineering
       - [Feature Engineering](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#feature-engineering)
-         - [Total time spent in shelter]
+         - [Total time spent in shelter](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#total-time-spent-in-shelter)
       - [Example of features with data set errors](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#example-of-features-with-data-set-errors)
          - [animalage](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#animalage)
             - [Before & after data-preprocessing](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#before-and-after-data-preprocessing)
