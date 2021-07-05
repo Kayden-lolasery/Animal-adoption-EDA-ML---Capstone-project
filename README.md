@@ -15,7 +15,9 @@
       - [Example of features with data set errors](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#example-of-features-with-data-set-errors)
          - [animalage](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#animalage)
             - [Before & after data-preprocessing](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#before-and-after-data-preprocessing)
+- [Label manipulation before training models]()
 - [ML models used](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#ml-models-used)
+- [ML EDA]()
 
 ## Problem statement
 - need to maximise adoption rates to ensure adoption shelters are not completely dependent on government funding as well as to improve the quality of life of animals and pet owners.
@@ -33,8 +35,8 @@
 - ![catdog](https://user-images.githubusercontent.com/78312050/124513038-6e833b00-de0c-11eb-9c26-18ab7c7bfe9f.PNG)
 - Adoption rate is not time sensitive
 - ![not time sensitive2](https://user-images.githubusercontent.com/78312050/124510369-3a0c8080-de06-11eb-855f-a05ba80dcbf3.PNG)
-- The most abandoned breed is the domestic shorthair in both cats and dogs
-- 
+- The most abandoned breed is the domestic shorthair in both cats and dogs (so much so that we can shorten them to a new column)
+- ![breednmaes](https://user-images.githubusercontent.com/78312050/124515477-1fd89f80-de12-11eb-91f3-05d4abd46c45.PNG)
 
 # Data pre-processing
 ## Data cleaning
@@ -71,10 +73,25 @@
 ### Before and after data-preprocessing
 ![age product](https://user-images.githubusercontent.com/78312050/124398208-1afae980-dd47-11eb-8f74-2de304e5754d.PNG)
 ![Capture](https://user-images.githubusercontent.com/78312050/124480640-12072800-ddda-11eb-85e0-94b6e83902fd.PNG)
+
+## Label manipulation before training models
+   - SMOTEtomek was chosen to remove the nearest neighbours smoted to ensure data is not to0 cluttered
+   - ![labells](https://user-images.githubusercontent.com/78312050/124515730-bb6a1000-de12-11eb-8e96-688565011601.PNG)
+
 ## ML models used
 Utilizing various Machine learning algorithmns and libraries to get the best model 
 ![Decision-Trees-Root-Node](https://user-images.githubusercontent.com/78312050/123955411-27481500-d9dc-11eb-91a8-321f66414e67.png)
 ![images (1)](https://user-images.githubusercontent.com/78312050/123228726-44767280-d508-11eb-91d5-7b23c811a19c.png)
 ![1523957272561](https://user-images.githubusercontent.com/78312050/123955599-637b7580-d9dc-11eb-9368-b50355d5b7fb.jpg)
+## ML EDA
+   - MIP plot (we can see that the top 4 features that affected the Model the most were returned reason, Time spent in shelter, chipped or not & animal's age)
+   - ![MIP](https://user-images.githubusercontent.com/78312050/124515648-8231a000-de12-11eb-9112-6d98c575c5e4.PNG)
+   - Ultimately the Support vector Machine model was the best:
+      - 100% recall on adopted & not adopted labels
+      - 100% precision on adopted & returned label
+      - ![cm](https://user-images.githubusercontent.com/78312050/124516960-6da2d700-de15-11eb-81ae-ab46bf4744de.PNG)
+      - ROC OVO (micro on graph) 98%
+      - log loss very very low at 0.119 where logloss = 1.1 is when i myself randomly choose and label the data without any model.
+      - ![roc](https://user-images.githubusercontent.com/78312050/124517213-020d3980-de16-11eb-8a5f-fab5324e18b6.PNG)
 
 
