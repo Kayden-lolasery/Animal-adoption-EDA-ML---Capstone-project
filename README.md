@@ -22,8 +22,15 @@
 
 ## EDA (exploratory data analysis) interesting points:
 - Black cats and dogs have the highest abandon and adoption rates
-- 
+- Adoption rate is not time sensitive
+- ![not time sensitive](https://user-images.githubusercontent.com/78312050/124508710-0714bd80-de03-11eb-88fc-62900b26c1c4.PNG)
+- ![not time sensitive2](https://user-images.githubusercontent.com/78312050/124510369-3a0c8080-de06-11eb-855f-a05ba80dcbf3.PNG)
 # Data pre-processing
+## Data cleaning
+### Missing values
+- Such as deceaseddate, returneddate & identichip indicate alive, not returned and not chipped respectively
+- Other items missing will have their entire row dropped
+- ![Nans](https://user-images.githubusercontent.com/78312050/124511391-953f7280-de08-11eb-9683-ec06499a0bbc.PNG)
 ## Data engineering
 - Data needs to be in numbers for the Machine to read, these numbers shoud also make sense in the real world. 
 ### Feature engineering
@@ -33,6 +40,7 @@
    - ![timespent](https://user-images.githubusercontent.com/78312050/124503961-260e5200-ddf9-11eb-95ef-93b11234ca49.PNG)
    -  **Negative** timing is due to the same day dates being reversed is terms of newer and older dates. easily solved with abs() function
    - ![time spent in shelter](https://user-images.githubusercontent.com/78312050/124504257-acc32f00-ddf9-11eb-8600-d3a9a83e31f4.PNG)
+#### Adoption rate**
 
 
 
