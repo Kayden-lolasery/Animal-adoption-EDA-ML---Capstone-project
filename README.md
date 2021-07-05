@@ -36,13 +36,14 @@
 ## Data engineering
 - Data needs to be in numbers for the Machine to read, these numbers shoud also make sense in the real world. 
 ### Feature engineering
-#### Total time spent in shelter**
+#### Total time spent in shelter
    - getting **Total time spent in shelter** with intake and movement date
    - ![movein](https://user-images.githubusercontent.com/78312050/124500047-a466f600-ddf1-11eb-9013-6921c74c396d.PNG)
    - ![timespent](https://user-images.githubusercontent.com/78312050/124503961-260e5200-ddf9-11eb-95ef-93b11234ca49.PNG)
    -  **Negative** timing is due to the same day dates being reversed is terms of newer and older dates. easily solved with abs() function
    - ![time spent in shelter](https://user-images.githubusercontent.com/78312050/124504257-acc32f00-ddf9-11eb-8600-d3a9a83e31f4.PNG)
-#### Adoption rate**
+#### Adoption rate
+   - Obtained via dividing current adopted with total number of animals. Caveat is that first few entries will be very skewed and jumpy on the graph
 
 
 
