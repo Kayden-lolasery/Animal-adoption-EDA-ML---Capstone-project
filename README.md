@@ -1,4 +1,5 @@
 # Animal-adoption-EDA-ML---Capstone-project
+   - Thank you! https://www.kaggle.com/jinbonnie/animal-data/code
 ![adoption-fee-banner](https://user-images.githubusercontent.com/78312050/123228543-17c25b00-d508-11eb-85fd-d3ca3396b6a8.jpg)
 ## *Table of contents*
 - [Problem Statement](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#problem-statement)
@@ -24,9 +25,16 @@
 - to assist shelters in identifying features to take note of when trying to improve adoption rates.
 
 ## EDA (exploratory data analysis) interesting points:
+#### Side note: The most notable issue with this dataset is that it does not have any numerical/continuous data for me to manipulate. I must adjust everything to turn them into numbers
 - Black cats and dogs have the highest abandon and adoption rates
+- ![blackblack](https://user-images.githubusercontent.com/78312050/124514251-29acd380-de0f-11eb-94ed-2c2fd9220218.PNG)
+- cats & dogs are the most popular animals to be abandoned
+- ![catdog](https://user-images.githubusercontent.com/78312050/124513038-6e833b00-de0c-11eb-9c26-18ab7c7bfe9f.PNG)
 - Adoption rate is not time sensitive
 - ![not time sensitive2](https://user-images.githubusercontent.com/78312050/124510369-3a0c8080-de06-11eb-855f-a05ba80dcbf3.PNG)
+- The most abandoned breed is the domestic shorthair in both cats and dogs
+- 
+
 # Data pre-processing
 ## Data cleaning
 ### Missing values
