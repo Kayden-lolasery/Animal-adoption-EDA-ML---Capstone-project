@@ -4,6 +4,7 @@
 ## *Table of contents*
 - [Problem Statement](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#problem-statement)
 - [Goal](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#goal)
+- [EDA interesting points](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#eda-exploratory-data-analysis-interesting-points)
 - [Data pre-processing](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#data-pre-processing)
    - [Data cleaning](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#data-cleaning)
       - Missing Values 
