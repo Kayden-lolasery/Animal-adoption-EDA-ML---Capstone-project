@@ -4,6 +4,7 @@
 - [Problem Statement](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#problem-statement)
 - [Goal](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#goal)
 - [Data pre-processing](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#data-pre-processing)
+   - [Data cleaning](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#data-cleaning)
    - Data engineering
       - [Feature Engineering](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#feature-engineering)
          - [Total time spent in shelter](https://github.com/lolasery/Animal-adoption-EDA-ML---Capstone-project/blob/main/README.md#total-time-spent-in-shelter)
