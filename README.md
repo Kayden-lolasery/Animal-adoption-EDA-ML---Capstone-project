@@ -84,7 +84,11 @@ Utilizing various Machine learning algorithmns and libraries to get the best mod
 ![images (1)](https://user-images.githubusercontent.com/78312050/123228726-44767280-d508-11eb-91d5-7b23c811a19c.png)
 ![1523957272561](https://user-images.githubusercontent.com/78312050/123955599-637b7580-d9dc-11eb-9368-b50355d5b7fb.jpg)
 ## ML EDA
-   - MIP plot (we can see that the top 4 features that affected the Model the most were returned reason, Time spent in shelter, chipped or not & animal's age)
+   - MIP plot (we can see that the top 4 features that affected the Model the most were:
+      - returned reason
+      - Time spent in shelter
+      - chipped or not 
+      - animal's age
    - ![MIP](https://user-images.githubusercontent.com/78312050/124515648-8231a000-de12-11eb-9112-6d98c575c5e4.PNG)
    - Ultimately the Support vector Machine model was the best:
    - ![scores](https://user-images.githubusercontent.com/78312050/124566365-8f33ab00-de75-11eb-9b45-448f2ed5b247.PNG)
