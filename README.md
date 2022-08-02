@@ -21,7 +21,7 @@
 
 ## Problem statement
 - need to maximise adoption rates to ensure adoption shelters are not completely dependent on government funding as well as to improve the quality of life of animals and pet owners.
-- This is based off our label: (Adopted, adopted & Returned & Not adopted)
+- This is based off our label: (Adopted, adopted and Returned & Not adopted)
 - ![label](https://user-images.githubusercontent.com/78312050/124507050-8dc79b80-ddff-11eb-9634-309278125e00.PNG)
 
 ## Goal
